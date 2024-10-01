@@ -1,5 +1,5 @@
-Premier site avec Gatsby suivant le tuto - V03
+Premier site avec Gatsby suivant le tuto - V04
 
 ----------------------------------------------------------------
 
-nouvelle version v03 ---------pour faire un 2e test de pull ---------------------
+nouvelle version v04 --------------------
