@@ -1,5 +1,5 @@
-Premier site avec Gatsby suivant le tuto - V05
+Premier site avec Gatsby suivant le tuto - V10
 
 ----------------------------------------------------------------
 
-nouvelle version v05 -------------------- test git autofetch 10 secondes
+nouvelle version v10 -------------------- published on main
